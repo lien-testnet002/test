@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/test/static/css/main.92f13f41.chunk.css",
-    "main.js": "/test/static/js/main.a724dcf2.chunk.js",
-    "main.js.map": "/test/static/js/main.a724dcf2.chunk.js.map",
-    "runtime-main.js": "/test/static/js/runtime-main.cb408556.js",
-    "runtime-main.js.map": "/test/static/js/runtime-main.cb408556.js.map",
-    "static/js/2.56a90354.chunk.js": "/test/static/js/2.56a90354.chunk.js",
-    "static/js/2.56a90354.chunk.js.map": "/test/static/js/2.56a90354.chunk.js.map",
-    "index.html": "/test/index.html",
-    "precache-manifest.3a2e9aeebbbd039049d7fa66f75c67ab.js": "/test/precache-manifest.3a2e9aeebbbd039049d7fa66f75c67ab.js",
-    "service-worker.js": "/test/service-worker.js",
-    "static/css/main.92f13f41.chunk.css.map": "/test/static/css/main.92f13f41.chunk.css.map",
-    "static/js/2.56a90354.chunk.js.LICENSE.txt": "/test/static/js/2.56a90354.chunk.js.LICENSE.txt",
-    "static/media/MarketStatus.scss": "/test/static/media/chainlink_badge.9cf70d0c.svg",
-    "static/media/HeaderWallet.scss": "/test/static/media/metamask.a0103549.svg"
+    "main.css": "./static/css/main.b9963988.chunk.css",
+    "main.js": "./static/js/main.fe55340f.chunk.js",
+    "main.js.map": "./static/js/main.fe55340f.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.503c4a7f.js",
+    "runtime-main.js.map": "./static/js/runtime-main.503c4a7f.js.map",
+    "static/js/2.014d6893.chunk.js": "./static/js/2.014d6893.chunk.js",
+    "static/js/2.014d6893.chunk.js.map": "./static/js/2.014d6893.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.eefaa860b45ee1dffd8c1ff5dedf70ec.js": "./precache-manifest.eefaa860b45ee1dffd8c1ff5dedf70ec.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.b9963988.chunk.css.map": "./static/css/main.b9963988.chunk.css.map",
+    "static/js/2.014d6893.chunk.js.LICENSE.txt": "./static/js/2.014d6893.chunk.js.LICENSE.txt",
+    "static/media/MarketStatus.scss": "./static/media/chainlink_badge.9cf70d0c.svg",
+    "static/media/HeaderWallet.scss": "./static/media/metamask.a0103549.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.cb408556.js",
-    "static/js/2.56a90354.chunk.js",
-    "static/css/main.92f13f41.chunk.css",
-    "static/js/main.a724dcf2.chunk.js"
+    "static/js/runtime-main.503c4a7f.js",
+    "static/js/2.014d6893.chunk.js",
+    "static/css/main.b9963988.chunk.css",
+    "static/js/main.fe55340f.chunk.js"
   ]
 }
